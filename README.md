@@ -2,7 +2,8 @@
 <h3 align="center">Python Developer | Web Developer</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **Django Stock prediction**<br>- 🌱 I’m currently learning **R programing | AI/ML |**
+- 🔭 I’m currently working on **Django Stock prediction**
+- 🌱 I’m currently learning **R programing | AI/ML |**
 
 
 ## 🌐 Socials:

@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 - 🔭 I’m currently working on **Django Stock prediction**
-- 🌱 I’m currently learning **R programing | AI/ML |**
+- 🌱 I’m currently learning **R programing | AI & ML |**
 
 
 ## 🌐 Socials:
